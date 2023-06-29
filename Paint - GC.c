@@ -1,15 +1,15 @@
 /*********************************************************/
-/*			UNIVERSIDAD NACIONAL DE INGENIERIA           */
-/*		 Facultad de Electrotecnia y Computacion         */
+/*	    UNIVERSIDAD NACIONAL DE INGENIERIA           */
+/*	 Facultad de Electrotecnia y Computacion         */
 /*                                                       */
-/*	            Geometria Computacional                  */
+/*	            Geometria Computacional              */
 /*                                                       */
 /*      Grupo: Erick Jeronimo Landero Bracamontes        */
-/*		       Jose Luis Lovo Rodriguez                  */
+/*		       Jose Luis Lovo Rodriguez          */
 /*             Rafael Humberto Poveda Poveda             */
 /*                                                       */
 /*********************************************************/
-/*                  *Version 1.0*                      */
+/*                  *Version 1.0*                        */
 /****************************/
 /*        Librerias         */
 /****************************/
